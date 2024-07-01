@@ -5,7 +5,7 @@
 This repository contains the network design for the IT Centre and Department building at the university. It includes subnets, VLANs, and configurations to meet specific requirements.
 
 ## Network Diagram
-![Network Diagram](images/Network Design.png)
+![Network Diagram](images/network_diagram.png)
 
 ### IT Centre Block
 The IT Centre Block includes:
